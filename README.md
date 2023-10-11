@@ -27,9 +27,9 @@ Our *KEBAP* dataset can be found in `data/KEBAP/`. Please refer to *KEBAP* paper
 
 ```
 @inproceedings{
-anonymous2023kebap,
+koo2023kebap,
 title={{KEBAP}: Korean Error Explainable Benchmark Dataset for {ASR} and Post-processing},
-author={Anonymous},
+author={Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, and Heuiseok Lim},
 booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
 year={2023},
 url={https://openreview.net/forum?id=i17SCD0YDI}
