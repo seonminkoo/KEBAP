@@ -15,7 +15,7 @@ This repository provides dataset of the following paper:
 </p>
 
 
-Our *SQuARe* dataset can be found in `data/KEBAP/`. Please refer to *SQuARe* paper for the detail of the dataset.
+Our *KEBAP* dataset can be found in `data/KEBAP/`. Please refer to *KEBAP* paper for the detail of the dataset.
 
 ### Proposed novel speech-level noise type and text-level error type
 <p align="center">
