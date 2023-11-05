@@ -8,14 +8,14 @@ This repository provides dataset of the following paper:
 
 ---
 ## KEBAP
-### [Dataset](./data/KEBAP/)
+### [Dataset](./data/)
 
 <p align="center">
     <img src="./img/kebap_dataset.png" alt="KEBAP Dataset" width="80%" height="80%"> 
 </p>
 
 
-Our *KEBAP* dataset can be found in `data/KEBAP/`. Please refer to *KEBAP* paper for the detail of the dataset.
+Our *KEBAP* dataset can be found in `data/`. Please refer to *KEBAP* paper for the detail of the dataset.
 
 ### Proposed novel speech-level noise type and text-level error type
 <p align="center">
