@@ -17,6 +17,9 @@ This repository provides dataset of the following paper:
 
 Our *KEBAP* dataset can be found in `data/`. Please refer to *KEBAP* paper for the detail of the dataset.
 
+Please download the 'sound' folder from the provided [link](https://drive.google.com/drive/folders/10iWGse7iJdsiXX5nj0CqxdHQ7p4gmJei?usp=sharing) and place them in the directory /data/sound.
+
+
 ### Proposed novel speech-level noise type and text-level error type
 <p align="center">
     <img src="./img/kebap_definition.png" alt="KEBAP novel types" width="80%" height="80%"> 
